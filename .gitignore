@@ -27,3 +27,6 @@ $RECYCLE.BIN/
 node_modules/
 *.log
 .idea/
+
+# Custom
+*.mp4
